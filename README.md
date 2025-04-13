@@ -23,8 +23,8 @@ pip install -r requirements.txt
 ### How to Run 🚀
 1.Clone the repository:
 ```bash
-git clone <your-github-repo-url>
-cd <your-project-directory>
+git clone https://github.com/suniltechs/Weather_App.git
+cd Weather_App
 ```
 2.Create a .env file in the root directory with the following content:
 ```bash
@@ -32,7 +32,7 @@ API_KEY=<Your OpenWeatherMap API Key>
 ```
 3.Run the script:
 ```bash
-python <your-script-name>.py
+python weather.py
 ```
 4.Enter the city name when prompted, and view the weather details.
 
