@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ### How to Run 🚀
 1.Clone the repository:
 ```bash
-git clone https://github.com/suniltechs/Weather_App.git
+git clone https://github.com/suniltechs/weather_app.git
 cd Weather_App
 ```
 2.Create a .env file in the root directory with the following content:
